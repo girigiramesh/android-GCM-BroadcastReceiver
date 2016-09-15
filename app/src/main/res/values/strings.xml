@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GCM_BroadcastReceiver</string>
+    <string name="gcm_defaultsenderId">DefaultSenderId</string>
+</resources>

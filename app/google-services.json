@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6604145814",
+    "project_id": "gcmexample-f2452"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6604145814:android:0bcf79166cdd67ac",
+        "android_client_info": {
+          "package_name": "com.gcm_broadcastreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6604145814-bnujngu1bvh0lksovbkidipqrvulnh7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gcm_broadcastreceiver",
+            "certificate_hash": "4AD8B49D07BFA126141250122ED2DE15B3384CEC"
+          }
+        },
+        {
+          "client_id": "6604145814-10r82q5eaeg6q82br611l3qjg2jjk8c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTq1cQDSaCdfzGlmwpmm-3QRorPh_Sgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
